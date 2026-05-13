@@ -1,7 +1,7 @@
 {
-  "name": "flowbite-react-template-vite",
+  "name": "cerveroga-mesas",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "main": "dist-electron/main.js",
   "scripts": {
@@ -42,7 +42,7 @@
     "vite": "^7.0.5"
   },
   "build": {
-    "appId": "com.example.flowbite-react-template-vite",
+    "appId": "com.cerveroga.mesas",
     "productName": "Cerveroga Mesas",
     "directories": {
       "output": "release"

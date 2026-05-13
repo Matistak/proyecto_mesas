@@ -26,6 +26,7 @@
     "@tailwindcss/vite": "^4.1.11",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
+    "@types/react-router-dom": "^5.3.3",
     "@vitejs/plugin-react": "^4.7.0",
     "electron": "^42.0.1",
     "electron-builder": "^26.8.1",
@@ -42,7 +43,7 @@
   },
   "build": {
     "appId": "com.example.flowbite-react-template-vite",
-    "productName": "Flowbite React App",
+    "productName": "Cerveroga Mesas",
     "directories": {
       "output": "release"
     },
